@@ -4,8 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+## Hi there, I’m Victor. ##
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+I design and code layouts using HTML(5), CSS(3), JavaScript and usually some kind of PHP framework or CMS combined with Git. However I spend quite some time coding themes for .NET projects as well.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Currently I am employed at Divtag near ’s Hertogenbosch and take on freelance projects as well.
+
+I am quite busy, as you can see by the design of this (responsive!!!) page. If you’d like to get in touch I suggest hitting the back-button towards Google and contacting me through my LinkedIn profile. Thanks!
