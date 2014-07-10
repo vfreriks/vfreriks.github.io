@@ -6,7 +6,7 @@ permalink: /about/
 
 ## Hi there, I’m Victor. ##
 
-I design and code layouts using HTML(5), CSS(3), JavaScript and usually some kind of PHP framework or CMS combined with Git. However I spend quite some time coding themes for .NET projects as well.
+I design and code layouts using __HTML(5)__, CSS(3), JavaScript and usually some kind of PHP framework or CMS combined with Git. However I spend quite some time coding themes for .NET projects as well.
 
 Currently I am employed at Divtag near ’s Hertogenbosch and take on freelance projects as well.
 
