@@ -587,6 +587,11 @@ a:visited {
     }
 }
 @media screen and (max-width: 750px) {
+    .post-content p img{
+        float:none;
+        display:block;
+        width:100%;
+    }
     .footer-col-1 {
         width: 50%;
     }
