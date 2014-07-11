@@ -192,6 +192,11 @@ a:visited {
 .post-content > * {
     margin: 20px 0;
 }
+.post-content p img{
+    float:right;
+    border-radius:50%;
+    margin:0 0 30px 30px;
+}
 .post-content h1, .post-content h2, .post-content h3, .post-content h4, .post-content h5, .post-content h6 {
     line-height: 1;
     font-weight: 300;
