@@ -3,7 +3,7 @@ layout: page
 title: Hi there I'm Victor
 ---
 
-I design and code layouts using HTML(5), CSS(3), JavaScript and usually some kind of PHP framework or CMS combined with Git. However I spend quite some time each year coding themes for .NET projects on a TFS as well. I usually work on my beefed up MacBook Pro 13" with an additional Thunderbold screen using SublimeText3 and Grunt under the hood.
+![Victor Freriks]({{ site.url }}/assets/victor.jpg)I design and code layouts using HTML(5), CSS(3), JavaScript and usually some kind of PHP framework or CMS combined with Git. However I spend quite some time each year coding themes for .NET projects on a TFS as well. I usually work on my beefed up MacBook Pro 13" with an additional Thunderbold screen using SublimeText3 and Grunt under the hood.
 
 Currently I am employed at Divtag near ’s Hertogenbosch and take on freelance projects as well.
 
