@@ -584,7 +584,8 @@ hr{
     border:none;
     background:none;
     height:1px;
-    border-top:1px solid #666;
+    border-top:1px solid #ddd;
+    margin:20px 20%;
 }
 
 /* media queries */
