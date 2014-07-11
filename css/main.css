@@ -580,6 +580,13 @@ em{
 }
 /* Literal.Number.Integer.Long */
 
+hr{
+    border:none;
+    background:none;
+    height:1px;
+    border-top:1px solid #666;
+}
+
 /* media queries */
 
 /* ----------------------------------------------------------*/
