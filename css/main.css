@@ -580,7 +580,7 @@ em{
 }
 /* Literal.Number.Integer.Long */
 
-hr{
+.post-content hr{
     border:none;
     background:none;
     height:1px;
